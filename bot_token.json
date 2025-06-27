@@ -1,8 +1,9 @@
 {
   "resellers": [
-    "7995961603"
+    7995961603
   ],
+  "allowed_ips": ["120.188.66.255"],
   "tokens": [
-    "7182705402:AAFQK9pg7cwaPaS-XG-ir8W9NWupMbWQwPk"
+    "7486265372:AAHkCoqYRUmdT2SlrYFSszirHXDzIMaBj88"
   ]
 }
