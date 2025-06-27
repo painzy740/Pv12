@@ -2,7 +2,7 @@
   "resellers": [
     7995961603
   ],
-  "allowed_ips": ["120.188.66.255"],
+  "allowed_ips": ["172.18.0.41", "134.199.161.96"],
   "tokens": [
     "7486265372:AAHkCoqYRUmdT2SlrYFSszirHXDzIMaBj88"
   ]
